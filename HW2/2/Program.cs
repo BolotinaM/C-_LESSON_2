@@ -1,7 +1,5 @@
 ﻿// задание 2
 
-// задание 1
-
 int Number(int num)
 {
     Console.WriteLine(num);
